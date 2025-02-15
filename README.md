@@ -5,7 +5,7 @@
 [![Awesome XRL](https://img.shields.io/badge/Awesome-XRL-blue)](https://github.com/topics/awesome)
 [![Document](https://img.shields.io/badge/Document-Yes-green)](https://github.com/topics/document)
 
-A list of selected paper and possible corresponding codes in our review paper [A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges](https://arxiv.org/abs/2211.06665).
+A list of selected paper and possible corresponding codes in our review paper: **A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges**.
 
 ## Table of Contents
 
